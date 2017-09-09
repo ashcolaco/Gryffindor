@@ -1,8 +1,8 @@
               #############################	Team GRYFFINDOR	   ##########################
 
-Problem statement: The project is to help ease the traffic situation in Bnagalore to help emergency vehicles easy passage.
+Problem statement: The project is to help ease the traffic situation in Bangalore to help emergency vehicles have easy passage.
 		   The app lifts the current location and destination as of now and sends it to Firebase. It is then retrieved
-		   from Firebase to the Raspberry Pi which ultimately controls the traffic signal
+		   from Firebase to the Raspberry Pi which ultimately controls the traffic signal.
 		   
 
 Traffic Run Final- holds the apk which gets the current location and destination as of now.
