@@ -41,7 +41,7 @@ class information:
 # normal behaviour
 
 while True:
-    info = fopen("FILE_NAME","rb")
+    info = open("FILE_NAME","rb")
     if ( info.getstatus() == True ):
         call("sudo python emerg.py")
         exit()
